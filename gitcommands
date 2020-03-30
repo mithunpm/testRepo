@@ -14,6 +14,11 @@ git push
 
 stach changes
 -------------
+git stash 
+git stash save -m 'message'
+git stash pop //pop the latest stashed into code
+
+
 
 
 
