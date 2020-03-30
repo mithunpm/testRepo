@@ -22,6 +22,9 @@ create new branch
 git checkout -b testMithunBranch
 git push --set-upstream origin testMithunBranch
 
+git branch 'name of branch' //change to branch
+
+
 
 
 
