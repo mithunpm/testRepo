@@ -18,6 +18,10 @@ git stash
 git stash save -m 'message'
 git stash pop //pop the latest stashed into code
 
+create new branch
+git checkout -b testMithunBranch
+git push --set-upstream origin testMithunBranch
+
 
 
 
