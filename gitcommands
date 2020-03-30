@@ -7,3 +7,13 @@ git commit -m 'message for commit'
 git push // push all changes
 
 
+revert commit
+--------------
+git revert 'commit id from 'git log''
+git push
+
+stach changes
+-------------
+
+
+
