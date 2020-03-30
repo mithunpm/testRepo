@@ -1,3 +1,9 @@
 git clone URL
 git clone https://github.com/mithunpm/testRepo.git
 git status
+git add file name
+git add . // add all files
+git commit -m 'message for commit'
+git push // push all changes
+
+
